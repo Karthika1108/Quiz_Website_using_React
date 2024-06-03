@@ -1,0 +1,42 @@
+.border{
+    background-color: rgba(2, 47, 59, 0.365);
+    display: grid;
+    grid-template-rows: auto ;
+    border: 1px solid gray;
+    width: 700px;
+    height: 430px;
+    margin-left: 200px;
+
+}
+textarea{
+    width: 693px;
+    height: 35px;
+    align-content: center;
+    border: 3px solid rgba(126, 187, 205, 0.82);
+    border-radius: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+input{
+    width: 250px;
+    height: 30px;
+    align-content: center;
+    margin-left: 200px;
+    border: 3px solid rgba(126, 187, 205, 0.82);
+    border-radius: 10px;
+    text-align: center;
+    
+}
+button{
+    height: 35px;
+    width: 700px;
+}
+button:hover{
+    background-color: rgba(128, 128, 128, 0.568);
+}
+.title{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500;
+    margin-bottom: 20px;
+}

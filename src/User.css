@@ -1,0 +1,33 @@
+.div{
+    border: 1px solid gray;
+    background-color: rgba(128, 128, 128, 0.358);
+    margin-left: 200px;
+    width: 200px;
+    margin-top: 10px;
+    height: 30px;
+    text-align: center;
+
+}
+.div:hover{
+    background-color: rgba(128, 128, 128, 0.753);
+    height: 31px;
+    width: 201px;
+}
+.correct{
+    border: 1px solid rgba(0, 128, 0, 0.432);
+    background-color:rgba(0, 128, 0, 0.416);
+}
+.wrong{
+    background-color: rgba(255, 0, 0, 0.413);
+    border: 1px solid red;
+}
+.que{
+    border: 1px ridge rgba(128, 128, 128, 0.532);
+    width: 600px;
+    margin-left: 300px;
+   
+    background-color: azure;
+}
+.que h5 {
+    margin-left: 20px;
+}
